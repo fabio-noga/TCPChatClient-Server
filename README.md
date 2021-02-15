@@ -1,5 +1,5 @@
 # TCPChatClient-Server
-TCP Chat with Client interface and Server
+TCP Chat with Client interface and Server. Created for educational purposes. Shouldn't be used in a professional context.
 
 Client:
 
